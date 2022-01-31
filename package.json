@@ -1,5 +1,5 @@
 {
-	"name": "@adonisjs/ally",
+	"name": "@eyglys/adonis-ally",
 	"version": "4.1.1",
 	"description": "Social authentication provider for AdonisJS",
 	"types": "./build/adonis-typings/index.d.ts",
